@@ -25,6 +25,12 @@ Favourite books: [The Metamorphosis](https://www.goodreads.com/en/book/show/4858
 
 Favourite films: The Thing (1982), Demolition (2015), Good Will Hunting (1997)
 
+Teaching and mentoring, in rough order:
+- Tutoring maths at secondary school
+- Lab assistant for Industrial Programming (Python), Operating Systems and Biologically Inspired Computation during the PhD
+- Talking about robots to a primary school class (they loved dancing robots)
+- Mentoring an ML intern at ST
+
 ## Find me
 
 [LinkedIn](https://www.linkedin.com/in/daniel-denley/) · [Personal email](mailto:daniel-denley@live.co.uk) · [Academic email](mailto:dad2001@hw.ac.uk)
