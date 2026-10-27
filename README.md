@@ -12,6 +12,7 @@ A video demo of a competitor intelligence interface I can showcase is linked her
 
 ## Path
 
+- Started with hex-editing game save files as an early teen
 - Started with machine learning in 2022, with an undergraduate dissertation on fake-news detection using conventional ML (Naive Bayes, SVM).
 - Moved to Edinburgh for an MSc in Artificial Intelligence at Heriot-Watt, and along the way:
     - The Data Lab Academy Scholarship
