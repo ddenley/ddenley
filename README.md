@@ -6,7 +6,7 @@
 
 ## Repos
 
-As an industrial PhD researcher, the IP for most of my day-to-day work sits with ST and Heriot-Watt, so the repos here are either recent, deliberately small projects built to show my coding style and ML knowledge in public, or work from my AI MSc. A selection is pinned above.
+As an industrial PhD researcher, the IP for most of my day-to-day work sits with ST and Heriot-Watt, so the repos here are either recent, deliberately small projects built to show my coding style and ML knowledge in public, or work from my AI MSc. A selection are pinned on this page.
 
 A video demo of a competitor intelligence interface I can showcase is linked here: https://www.youtube.com/watch?v=YelO8K7yPZE
 
