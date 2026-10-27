@@ -20,18 +20,6 @@ A video demo of a competitor intelligence interface I can showcase is linked her
     - Best MSc Dissertation in the School of Mathematical and Computer Sciences
 - Went straight from the MSc into an industrial PhD with STMicroelectronics, on getting strategic value from text mining and LLMs, which became use cases in patenting strategy and competitor analysis.
 
-## Outside of work
-
-Favourite books: [The Metamorphosis](https://www.goodreads.com/en/book/show/485894.The_Metamorphosis), [Children of Time](https://www.goodreads.com/book/show/25499718-children-of-time)
-
-Favourite films: The Thing (1982), Demolition (2015), Good Will Hunting (1997)
-
-Teaching and mentoring, in rough order:
-- Tutoring maths at secondary school
-- Lab assistant for Industrial Programming (Python), Operating Systems and Biologically Inspired Computation during the PhD
-- Talking about robots to a primary school class (they loved dancing robots)
-- Mentoring an ML intern at ST
-
 ## Find me
 
 [LinkedIn](https://www.linkedin.com/in/daniel-denley/) · [Personal email](mailto:daniel-denley@live.co.uk) · [Academic email](mailto:dad2001@hw.ac.uk)
